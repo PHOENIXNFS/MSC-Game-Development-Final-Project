@@ -1,0 +1,65 @@
+{
+    "CarAI": {
+        "checkpoints": [
+            {
+                "steps": 23499968,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-23499968.onnx",
+                "reward": -127.27501559257507,
+                "creation_time": 1691363032.5644207,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-23499968.pt"
+                ]
+            },
+            {
+                "steps": 23999936,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-23999936.onnx",
+                "reward": 98.0,
+                "creation_time": 1691364872.0085704,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-23999936.pt"
+                ]
+            },
+            {
+                "steps": 24499968,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-24499968.onnx",
+                "reward": 98.5,
+                "creation_time": 1691366463.1976256,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-24499968.pt"
+                ]
+            },
+            {
+                "steps": 24999936,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-24999936.onnx",
+                "reward": -53.05000850558281,
+                "creation_time": 1691368055.151113,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-24999936.pt"
+                ]
+            },
+            {
+                "steps": 25000064,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-25000064.onnx",
+                "reward": -53.05000850558281,
+                "creation_time": 1691368055.2941377,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-25000064.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25000064,
+            "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI.onnx",
+            "reward": -53.05000850558281,
+            "creation_time": 1691368055.2941377,
+            "auxillary_file_paths": [
+                "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_TRAINING_1\\CarAI\\CarAI-25000064.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

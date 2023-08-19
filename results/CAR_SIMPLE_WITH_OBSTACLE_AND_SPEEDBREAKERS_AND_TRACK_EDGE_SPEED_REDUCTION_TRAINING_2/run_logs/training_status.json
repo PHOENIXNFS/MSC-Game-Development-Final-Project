@@ -1,0 +1,65 @@
+{
+    "CarAI": {
+        "checkpoints": [
+            {
+                "steps": 23499960,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-23499960.onnx",
+                "reward": null,
+                "creation_time": 1691844820.2851083,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-23499960.pt"
+                ]
+            },
+            {
+                "steps": 23999992,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-23999992.onnx",
+                "reward": null,
+                "creation_time": 1691846689.167455,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-23999992.pt"
+                ]
+            },
+            {
+                "steps": 24499960,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-24499960.onnx",
+                "reward": 106.69999986886978,
+                "creation_time": 1691849622.2740643,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-24499960.pt"
+                ]
+            },
+            {
+                "steps": 24999960,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-24999960.onnx",
+                "reward": null,
+                "creation_time": 1691851476.2618182,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-24999960.pt"
+                ]
+            },
+            {
+                "steps": 25000152,
+                "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-25000152.onnx",
+                "reward": null,
+                "creation_time": 1691851476.3980496,
+                "auxillary_file_paths": [
+                    "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-25000152.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25000152,
+            "file_path": "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI.onnx",
+            "reward": null,
+            "creation_time": 1691851476.3980496,
+            "auxillary_file_paths": [
+                "results\\CAR_SIMPLE_WITH_OBSTACLE_AND_SPEEDBREAKERS_AND_TRACK_EDGE_SPEED_REDUCTION_TRAINING_2\\CarAI\\CarAI-25000152.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

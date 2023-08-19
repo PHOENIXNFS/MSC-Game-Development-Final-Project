@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Intro Scene.unity
+    guid: 1b0ef52e6a540be48a7f81d019433e34
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 37c06d988b534c04199b8087290c7234
+  - enabled: 1
+    path: Assets/Scenes/Game Manual.unity
+    guid: 4288e2200cb5b8444841ea8359a1e8c5
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 2e377266dca1ad440a493450a72d5aef
+  - enabled: 1
+    path: Assets/Scenes/Track Selector.unity
+    guid: 21412733ac9389d479c03a9175767f41
+  - enabled: 1
+    path: Assets/Scenes/Oval Track.unity
+    guid: a374fac2fbe680248ac76af360c90c6b
+  - enabled: 1
+    path: Assets/Scenes/Night Track.unity
+    guid: b2753e82bb330394190a6e11e015c015
+  - enabled: 1
+    path: Assets/Scenes/Game Won.unity
+    guid: db2781ac3dddb1141aca424c2911f4b2
+  - enabled: 1
+    path: Assets/Scenes/Game Lost.unity
+    guid: b6551c1455447f340a88546a72e88111
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Night.unity
+    guid: c6f2f13f9cef9394aa67d010b68546c0
+  - enabled: 1
+    path: Assets/Scenes/Game Tutorial Completed.unity
+    guid: 85972695d7e46ce448d2d81f4957a86e
+  - enabled: 1
+    path: Assets/Scenes/Oval Track Obstacle.unity
+    guid: c27bd899ba963b5419854698040f278f
+  - enabled: 1
+    path: Assets/Scenes/Oval Track Obstacle Demonstration.unity
+    guid: d5355372a93af804fb33f098c913ba0f
+  - enabled: 1
+    path: Assets/Scenes/Demonstration Track Selector.unity
+    guid: 50cafdf87e67f124f95bcbdf143f96f7
+  - enabled: 1
+    path: Assets/Scenes/Oval Track Demonstration.unity
+    guid: 53ec57ae85d2b8c488790620f17497ac
+  - enabled: 1
+    path: Assets/Scenes/Night Track Demonstration.unity
+    guid: f369deb714203cf4ba5645b3cb108934
+  m_configObjects: {}

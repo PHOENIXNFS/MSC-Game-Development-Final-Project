@@ -1,0 +1,65 @@
+{
+    "CarAI": {
+        "checkpoints": [
+            {
+                "steps": 18499984,
+                "file_path": "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-18499984.onnx",
+                "reward": null,
+                "creation_time": 1688121626.4745216,
+                "auxillary_file_paths": [
+                    "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-18499984.pt"
+                ]
+            },
+            {
+                "steps": 18999952,
+                "file_path": "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-18999952.onnx",
+                "reward": null,
+                "creation_time": 1688122567.6591902,
+                "auxillary_file_paths": [
+                    "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-18999952.pt"
+                ]
+            },
+            {
+                "steps": 19094112,
+                "file_path": "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-19094112.onnx",
+                "reward": null,
+                "creation_time": 1688122749.8954294,
+                "auxillary_file_paths": [
+                    "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-19094112.pt"
+                ]
+            },
+            {
+                "steps": 19499936,
+                "file_path": "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-19499936.onnx",
+                "reward": null,
+                "creation_time": 1688124172.2212439,
+                "auxillary_file_paths": [
+                    "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-19499936.pt"
+                ]
+            },
+            {
+                "steps": 19643104,
+                "file_path": "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-19643104.onnx",
+                "reward": null,
+                "creation_time": 1688124642.6783543,
+                "auxillary_file_paths": [
+                    "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-19643104.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 19643104,
+            "file_path": "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI.onnx",
+            "reward": null,
+            "creation_time": 1688124642.6783543,
+            "auxillary_file_paths": [
+                "results\\CAR_AI_TRAINING_SIMPLE_OVAL_TRACK_5\\CarAI\\CarAI-19643104.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
